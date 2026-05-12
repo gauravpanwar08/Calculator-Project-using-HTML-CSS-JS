@@ -83,4 +83,6 @@
 <h2>Overall Summary</h2>
 <p>Overall, this calculator project demonstrates fundamental web development skills, including DOM manipulation, event handling, and user interface design, while providing a functional tool for basic mathematical calculations and a user-friendly experience with a dark mode feature.</p>
 
-**Made with ❤️ by [GAURAV-InnovativeCodeZone](https://github.com/GAURAV-InnovativeCodeZone)**
+**Made with ❤️ by [GAURAV SINGH PANWAR](https://github.com/gauravpanwar08)**
+
+<h4>Happy Coding!</h4>
